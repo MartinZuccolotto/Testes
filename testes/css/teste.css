@@ -1,0 +1,15 @@
+.positivo{
+    position: fixed;
+    background-image: url(../img/image\ 11.png);
+    width: 53px;
+    height: 55px;
+}
+
+.negativo{
+    position: fixed;
+    background-image: url(../img/image\ 12.png);
+    width: 53px;
+    height: 55px;
+    top: 1px;
+    left: 1px;
+}

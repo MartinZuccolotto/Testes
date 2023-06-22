@@ -1,0 +1,33 @@
+.logo1{
+    position: relative;
+    height: 130px;
+    width: 408px;
+    top: 16px;
+    left: 790px;
+}
+.linha{
+    position: absolute;
+    width: 1647px;
+    height: 4px;
+    left: 131px;
+    top: 176px;
+    background: #5AE368;
+    border-radius: 24px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.quadrado1{
+    position: absolute;
+    width: 532px;
+    height: 512px;
+    left: 383px;
+    top: 367px;
+    background: rgba(228, 249, 230, 0.77);
+    box-shadow: 16px 10px 39px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    border-color: rgba(228, 249, 230, 0.77);
+}
+.fotoprato{
+    position: absolute;
+    width: 532px;
+    height: 174px;
+}
